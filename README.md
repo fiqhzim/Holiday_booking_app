@@ -1,16 +1,1 @@
-# tour_package_booking
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Created a mobile app using Flutter that helps tourists browse and book tour packages easily. Users can view destination details, check availability, and make bookings. The app includes user login, booking history, and a clean, easy-to-use design. It connects to a MySQL database with PHP to handle data and booking requests. This project shows my skills in Flutter, Local data storage, and building user-friendly mobile apps.
